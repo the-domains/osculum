@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Osculum]]></title>
         <description><![CDATA[Osculum]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.osculum.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 19:02:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 19:14:11 GMT</lastBuildDate>
+        <atom:link href="http://www.osculum.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Farmer Newsletters]]></title>
+            <description><![CDATA[<article><h1>New Farmer Newsletters</h1><p>The University of Hawai'i is an equal opportunity/affirmative action institution. Jody Smith | Web Manager | smithjos@hawaii.edu Copyright ©2009-2015 University of Hawai'i - College of Tropical Agriculture and Human Resources. Updated 29-Sep-2015</p><img src="http://www.ctahr.hawaii.edu/sustainag/images/sm-wsare-logo.jpg"></article>]]></description>
+            <link>http://www.ctahr.hawaii.edu/sustainag/NewFarmer/newsletters.asp</link>
+            <guid isPermaLink="false">5c814d0a-9385-4a2f-8ee1-d909025bd56e</guid>
+            <pubDate>Sun, 28 Feb 2016 19:08:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mahi'ai Match-up]]></title>
             <description><![CDATA[<article><h1>Mahi'ai Match-up</h1><p>Kamehameha Schools and the Pauahi Foundation present Mahi'ai Match-Up - an agricultural business plan contest dedicated to increasing food production for the local market to create a sustainable Hawai'i. The contest is open to farmers, aspiring farmers and other agricultural producers including ranching, fishery and nursery proprietors interested in growing food for Hawai'i.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae2c4d6b041d475dbc3501b878bcdf8982079b59.png"></article>]]></description>
