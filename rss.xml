@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Osculum]]></title>
+        <description><![CDATA[Osculum]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 28 Feb 2016 19:02:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mahi'ai Match-up]]></title>
+            <description><![CDATA[<article><h1>Mahi'ai Match-up</h1><p>Kamehameha Schools and the Pauahi Foundation present Mahi'ai Match-Up - an agricultural business plan contest dedicated to increasing food production for the local market to create a sustainable Hawai'i. The contest is open to farmers, aspiring farmers and other agricultural producers including ranching, fishery and nursery proprietors interested in growing food for Hawai'i.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae2c4d6b041d475dbc3501b878bcdf8982079b59.png"></article>]]></description>
+            <link>http://www.pauahi.org/mahiaimatchup/index.html</link>
+            <guid isPermaLink="false">6f7441c3-86ce-42b3-bfc8-46ae80d000db</guid>
+            <pubDate>Sun, 28 Feb 2016 19:01:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
