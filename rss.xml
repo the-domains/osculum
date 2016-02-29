@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Osculum]]></title>
         <description><![CDATA[Osculum]]></description>
-        <link>http://www.osculum.com/</link>
+        <link>http://osculum.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 19:14:11 GMT</lastBuildDate>
-        <atom:link href="http://www.osculum.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 03:42:55 GMT</lastBuildDate>
+        <atom:link href="http://osculum.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[James and Dorothy]]></title>
+            <description><![CDATA[<article><h1>James and Dorothy</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbe8ebc22891b718f978f7639c73d112ca4ffc2d.jpg"></article>]]></description>
+            <link>http://osculum.com/james-and-dorothy/index.html</link>
+            <guid isPermaLink="false">5b6caa81-c9b6-4aed-a02e-5b6c31da54ea</guid>
+            <pubDate>Mon, 29 Feb 2016 03:41:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Farmer Newsletters]]></title>
-            <description><![CDATA[<article><h1>New Farmer Newsletters</h1><p>The University of Hawai'i is an equal opportunity/affirmative action institution. Jody Smith | Web Manager | smithjos@hawaii.edu Copyright ©2009-2015 University of Hawai'i - College of Tropical Agriculture and Human Resources. Updated 29-Sep-2015</p><img src="http://www.ctahr.hawaii.edu/sustainag/images/sm-wsare-logo.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>New Farmer Newsletters</h1><p>The University of Hawai'i is an equal opportunity/affirmative action institution. Jody Smith | Web Manager | smithjos@hawaii.edu Copyright ©2009-2015 University of Hawai'i - College of Tropical Agriculture and Human Resources. Updated 29-Sep-2015</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f38f6f1082017b064f04065eb42a568c89be7d9.jpg"></article>]]></description>
             <link>http://www.ctahr.hawaii.edu/sustainag/NewFarmer/newsletters.asp</link>
             <guid isPermaLink="false">5c814d0a-9385-4a2f-8ee1-d909025bd56e</guid>
             <pubDate>Sun, 28 Feb 2016 19:08:53 GMT</pubDate>
